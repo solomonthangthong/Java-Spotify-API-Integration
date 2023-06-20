@@ -1,2 +1,2 @@
 # Java-Spotify-API-Integration
-Maven-based project that uses Java and the Spotify Web API to fetch data and perform data manipulation. 
+Ongoing side project that utilizes Java and Maven to interact with the Spotify API to fetch data and perform data manipulation. 
